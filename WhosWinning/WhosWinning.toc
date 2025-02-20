@@ -1,0 +1,12 @@
+## Interface: 11504
+## Title: |cff00ff00Who's Winning|r
+## Notes: Tracks your PvP kills / zone
+## Author: Carlonjumala
+## Version: 08.12.2024
+## SavedVariables: WhosWinningData, WhosWinningHistoricalData
+## OptionalDeps: LibSerialize, LibStub
+
+
+WhosWinning.lua
+WhosWinning_UI.lua
+WhosWinning_Sync.lua
